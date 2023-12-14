@@ -5,7 +5,7 @@
 <body bgcolor="white">
 	<h2> Test server Tomcat</h2>
 
-	<p> My push to the test server tomcat  is sucess </p>
+	<p> My push to the test server tomcat  is SUCESS </p>
 
 </body>
 <!-- body tag ends here -->
