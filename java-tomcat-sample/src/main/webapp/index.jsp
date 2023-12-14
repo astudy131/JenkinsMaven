@@ -1,6 +1,13 @@
-<form>
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
-</form>
+<!DOCTYPE html>
+<html>
+<!-- body tag starts here -->
+
+<body bgcolor="green">
+	<h2> Prod Tomcat</h2>
+
+	<p> My push to the prod is sucess </p>
+
+</body>
+<!-- body tag ends here -->
+
+</html>
